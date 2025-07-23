@@ -14,4 +14,4 @@ This project analyzes whether a new website design improves conversion rates ove
 The new design did not significantly improve conversions (p = 0.89). Recommended to not roll it out.
 
 ## 📁 Files
-- `ab_test_analysis.ipynb`: Cleaned Google Colab notebook with full code and analysis
+Untitled3.ipynb`: Cleaned Google Colab notebook with full code and analysis
